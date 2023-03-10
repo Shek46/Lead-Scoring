@@ -1,4 +1,4 @@
-# Lead_Scoreing
+# Lead_Scoring
 
 ## Problem Statement:
 
